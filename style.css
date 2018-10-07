@@ -1,0 +1,18 @@
+h1{
+	color: red;
+	font-family: custom;
+}
+body{
+	text-align: center;
+	color: grey;
+	background: black;
+	padding: 25px;
+	font-family: Candara;
+	font-size: 20px;
+	margin-top: 90px;
+}
+button{
+	margin-left: 30px;
+	margin-right: 20px;
+	background-color: green;
+}
